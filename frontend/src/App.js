@@ -17,7 +17,7 @@ function App() {
       <h1>
         My frontend
       </h1>
-        <h3> My name is {userName} Latest</h3>
+        <h3> My name is {userName} Latest changes for productions</h3>
 
       </>
   )
